@@ -2734,10 +2734,10 @@ body {
 .cid-qNevmSLD0B .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-qO3t2XvFQX {
+.cid-qO3wqWiqRm {
   background-image: url("../../../assets/images/mbr-4-1620x1080.jpg");
 }
-.cid-qO3t2XvFQX .mbr-media span {
+.cid-qO3wqWiqRm .mbr-media span {
   font-size: 48px;
   cursor: pointer;
   background-color: #ffffff;
@@ -2750,7 +2750,7 @@ body {
   transition: all 0.25s;
   color: #353535;
 }
-.cid-qO3t2XvFQX .mbr-media span.mbri-play:before {
+.cid-qO3wqWiqRm .mbr-media span.mbri-play:before {
   position: absolute;
   left: 50%;
   -webkit-transform: translateX(-35%);
@@ -2759,7 +2759,7 @@ body {
   -o-transform: translateX(-35%);
   transform: translateX(-35%);
 }
-.cid-qO3t2XvFQX .modalWindow {
+.cid-qO3wqWiqRm .modalWindow {
   position: fixed;
   z-index: 5000;
   left: 0;
@@ -2768,16 +2768,16 @@ body {
   width: 100%;
   height: 100%;
 }
-.cid-qO3t2XvFQX .modalWindow .modalWindow-container {
+.cid-qO3wqWiqRm .modalWindow .modalWindow-container {
   display: table-cell;
   vertical-align: middle;
 }
-.cid-qO3t2XvFQX .modalWindow .modalWindow-video {
+.cid-qO3wqWiqRm .modalWindow .modalWindow-video {
   height: calc(44.9943757vw);
   width: 80vw;
   margin: 0 auto;
 }
-.cid-qO3t2XvFQX a.close {
+.cid-qO3wqWiqRm a.close {
   position: absolute;
   right: 4vw;
   top: 4vh;
@@ -2788,8 +2788,14 @@ body {
   padding: 20px;
   border-radius: 50%;
 }
-.cid-qO3t2XvFQX a.close:hover {
+.cid-qO3wqWiqRm a.close:hover {
   color: #ffffff;
+}
+.cid-qO3wqWiqRm H1 {
+  color: #ff5600;
+}
+.cid-qO3wqWiqRm P {
+  color: #ff5600;
 }
 .cid-qO3t6LcWmI {
   padding-top: 15px;
@@ -2847,13 +2853,13 @@ body {
   }
 }
 .cid-qO3t6LcWmI H4 {
-  color: #ffffff;
+  color: #ff5600;
 }
 .cid-qO3t6LcWmI .count {
-  color: #ffffff;
+  color: #ff5600;
 }
 .cid-qO3t6LcWmI .mbr-section-title B {
-  color: #ffffff;
+  color: #ff5600;
 }
 .cid-qO3tg7NqHj {
   padding-top: 120px;
@@ -2953,16 +2959,16 @@ body {
   color: #ffffff;
 }
 .cid-qO3tg7NqHj H4 {
-  color: #ffffff;
+  color: #ff5600;
 }
 .cid-qO3tg7NqHj H5 {
   color: #ff0000;
 }
 .cid-qO3tg7NqHj B {
-  color: #ffffff;
+  color: #ff5600;
 }
 .cid-qO3tg7NqHj .mbr-text B {
-  color: #ffffff;
+  color: #ff5600;
 }
 .cid-qO3tii9Apj {
   padding-top: 0px;
